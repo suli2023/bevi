@@ -1,0 +1,94 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name": "Kovács András",
+            "email": "kovacs.andras@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Nagy Eszter",
+            "email": "nagy.eszter@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Tóth István",
+            "email": "toth.istvan@example.com"
+        },
+        {
+            "id": 4,
+            "name": "Szabó Anna",
+            "email": "szabo.anna@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Horváth Péter",
+            "email": "horvath.peter@example.com"
+        },
+        {
+            "id": 6,
+            "name": "Kiss Zsuzsanna",
+            "email": "kiss.zsuzsanna@example.com"
+        },
+        {
+            "id": 7,
+            "name": "Kovács Péter",
+            "email": "kovacs.peter@example.com"
+        },
+        {
+            "id": 8,
+            "name": "Nagy Tamás",
+            "email": "nagy.tamas@example.com"
+        },
+        {
+            "id": 9,
+            "name": "Tóth Zsófia",
+            "email": "toth.zsofia@example.com"
+        },
+        {
+            "id": 10,
+            "name": "Szabó Gábor",
+            "email": "szabo.gabor@example.com"
+        },
+        {
+            "id": 11,
+            "name": "Horváth Judit",
+            "email": "horvath.judit@example.com"
+        },
+        {
+            "id": 12,
+            "name": "Kiss Tamás",
+            "email": "kiss.tamas@example.com"
+        },
+        {
+            "id": 13,
+            "name": "Kovács Éva",
+            "email": "kovacs.eva@example.com"
+        },
+        {
+            "id": 14,
+            "name": "Nagy János",
+            "email": "nagy.janos@example.com"
+        },
+        {
+            "id": 15,
+            "name": "Tóth Anna",
+            "email": "toth.anna@example.com"
+        },
+        {
+            "id": 16,
+            "name": "Szabó Péter",
+            "email": "szabo.peter@example.com"
+        },
+        {
+            "id": 17,
+            "name": "Horváth Ágnes",
+            "email": "horvath.agnes@example.com"
+        },
+        {
+            "id": 18,
+            "name": "Kiss László",
+            "email": "kiss.laszlo@example.com"
+        }
+    ]
+}
